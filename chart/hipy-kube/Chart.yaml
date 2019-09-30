@@ -1,0 +1,7 @@
+apiVersion: v1
+description: Python Kubernetes "hello world" application
+name: hipy-kube
+version: 1.0
+maintainers:
+  - name: ''
+    email: ''
